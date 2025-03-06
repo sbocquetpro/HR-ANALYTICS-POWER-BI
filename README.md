@@ -27,3 +27,15 @@ Ce projet a été réalisé dans le cadre de ma formation Power BI sur **DataCam
 - **Analyse de données** : Application de techniques de nettoyage, de modélisation et d'exploration des données pour extraire des insights pertinents.
 
 Ce projet m'a permis de renforcer mes compétences techniques et analytiques, tout en mettant en pratique des méthodes adaptées à des problématiques réelles d'entreprise.
+
+## Overview
+![Dashboard](https://github.com/sbocquetpro/HR-ANALYTICS-POWER-BI/blob/main/Overview.png)
+
+## Demographics
+![Dashboard](https://github.com/sbocquetpro/HR-ANALYTICS-POWER-BI/blob/main/Demographics.png)
+
+## Attrition
+![Dashboard](https://github.com/sbocquetpro/HR-ANALYTICS-POWER-BI/blob/main/Attrition.png)
+
+## Performance
+![Dashboard](https://github.com/sbocquetpro/HR-ANALYTICS-POWER-BI/blob/main/Performance%20Tracker.png)
